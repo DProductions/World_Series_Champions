@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World_Series_Champions", "World_Series_Champions\World_Series_Champions.csproj", "{11A9B5CD-B1D5-4844-88A8-07DA50E4DBD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldSeriesClassLibrary", "WorldSeriesClassLibrary\WorldSeriesClassLibrary.csproj", "{DF9F55D7-AC2B-4688-86B4-722FF4B2EA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A9B5CD-B1D5-4844-88A8-07DA50E4DBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A9B5CD-B1D5-4844-88A8-07DA50E4DBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A9B5CD-B1D5-4844-88A8-07DA50E4DBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A9B5CD-B1D5-4844-88A8-07DA50E4DBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9F55D7-AC2B-4688-86B4-722FF4B2EA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9F55D7-AC2B-4688-86B4-722FF4B2EA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9F55D7-AC2B-4688-86B4-722FF4B2EA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9F55D7-AC2B-4688-86B4-722FF4B2EA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {706803CA-9F4A-4FFE-ADA5-A0E33BA4DD7E}
+	EndGlobalSection
+EndGlobal
